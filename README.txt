@@ -1,0 +1,81 @@
+Doc number in LMJT	New shelfmark 
+1	DK 327 (Alt: 13)
+2	T-S 13J25.18
+3	T-S 12.144
+4	T-S 8Ja1.5
+5	T-S 8J19.27
+6	Bodl. MS Heb. d 66/52
+7	T-S 12.435
+8	T-S Ar  53.67
+9	Bodl. MS Heb. b 11/22
+10	T-S Ar. 30.145
+11	T-S 12.133
+12	T-S 12.224
+13	T-S 8.12
+14	T-S 12.291
+15	T-S 13J15.5
+16	CUL Or. 1080 J42
+17	Bodl. MS Heb. a 3/26
+18	Bodl. MS Heb. a 2/17
+19	ENA NS 48.15
+20	Moss. V,363.2 (Alt: 2nd Series: L 39)
+21	T-S Misc. 28.199
+22	T-S 20.76
+23	Bodl. MS Heb. a 3/13
+24	T-S 12.389
+25	T-S 16.163
+26	Bodl. MS Heb. c 28/34
+27	T-S 10J9.3 
+28	Bodl. MS Heb. a 2/20
+29	Moss. IV,1 (Alt: L 5) 
+30	T-S 20.180
+31	BL Or. 5542.9
+32	T-S Misc. 25.124 
+33	INA D 55/13
+34	T-S 13J19.20
+35	T-S 12.657
+36	Bodl. MS Heb. d 66/66
+37	Bodl. MS Heb. a 3/19
+38	T-S 24.64
+39	T-S 12.320
+40	BL Or. 5566D.6
+41	T-S 10J10.15
+42	CUL Or. 1080 J1
+43	Moss. IV,7 (Alt: L 12)
+44	T-S 28.11
+45	ENA 2739.16 
+46	T-S Ar. 30.42
+47	ENA 4020.41 (cited incorrectly in Goitein as ENA 4020.55)
+48	T-S Ar. 30.255
+49	T-S NS J197
+50	T-S 13J27.9 
+51	T-S 10J13.4 
+52	DK 311 (Alt: 3,6)
+53	T-S 13J22.30
+54	T-S 13J21.26 
+55	Bodl. MS Heb. d 66/43
+56	T-S 18J4.6
+57	T-S 10J16.19
+58	Bodl. MS Heb. c 28/55
+59	Bodl. MS Heb. d 74/41
+60	T-S 13J21.12
+61	T-S 13J13.18
+62	T-S Ar. 40.126
+63	CUL Or. 1080 J291
+64	Bodl. MS Heb. e 98/64–65
+65	T-S Misc. 8.65
+66	T-S Ar. 30.215
+67	T-S Misc. 24.39
+68	T-S NS 321.7a 
+69	Bodl. MS Heb. d 66/15
+70	T-S 13J17.3 
+71	CUL Or. 1080 J22
+72	T-S 13J15.9
+73	T-S 8J24.21
+74	T-S 13J26.10 
+75	ENA 2557.151 
+76	UPenn E 16522
+77	T-S NS J300
+78	Moss. II,98.2 (Alt: L 101) 
+79	T-S 12.582
+80	T-S NS J286
